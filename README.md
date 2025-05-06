@@ -1,5 +1,5 @@
 # MySQL and python project for analyzing Shakespeare's Mid Summer Night Dream play texts and characters
 
-loading information for analyzing purpose
-calcuating performance different queriy types such as SELECT, INSERT, UPDATE, DELETE
-manipulating plays and characters
+1.loading information for analyzing purpose
+2.calcuating performance different queriy types
+3. manipulating plays and characters
